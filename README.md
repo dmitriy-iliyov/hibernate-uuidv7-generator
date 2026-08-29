@@ -2,8 +2,8 @@
 [![codecov](https://codecov.io/github/dmitriy-iliyov/hibernate-uuidv7-generator/branch/main/graph/badge.svg)](https://codecov.io/github/dmitriy-iliyov/hibernate-uuidv7-generator)
 [![CI](https://github.com/dmitriy-iliyov/hibernate-uuidv7-generator/actions/workflows/ci.yaml/badge.svg)](https://github.com/dmitriy-iliyov/hibernate-uuidv7-generator/actions/workflows/ci.yaml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.dmitriy-iliyov.hbrntuuidv7gen/hibernate-uuidv7-generator.svg?label=maven-central&color=blue)](https://central.sonatype.com/artifact/io.github.dmitriy-iliyov.hbrntuuidv7gen/hibernate-uuidv7-generator)
-[![javadoc](https://javadoc.io/badge2/io.github.dmitriy-iliyov.hbrntuuidv7gen/hibernate-uuidv7-generator/javadoc.svg)](https://javadoc.io/doc/io.github.dmitriy-iliyov.hbrntuuidv7gen/hibernate-uuidv7-generator)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.dmitriy-iliyov/hibernate-uuidv7-generator.svg?label=maven-central&color=blue)](https://central.sonatype.com/artifact/io.github.dmitriy-iliyov/hibernate-uuidv7-generator)
+[![javadoc](https://javadoc.io/badge2/io.github.dmitriy-iliyov/hibernate-uuidv7-generator/javadoc.svg)](https://javadoc.io/doc/io.github.dmitriy-iliyov/hibernate-uuidv7-generator)
 ![GitHub Release](https://img.shields.io/github/v/release/dmitriy-iliyov/hibernate-uuidv7-generator?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dmitriy-iliyov/hibernate-uuidv7-generator)
 
