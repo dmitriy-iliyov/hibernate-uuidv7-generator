@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.dmitriyiliyov.hibernate.uuidv7gen</groupId>
+    <groupId>io.github.dmitriy-iliyov.hbrntuuidv7gen</groupId>
     <artifactId>hibernate-uuidv7-generator</artifactId>
     <version>1.0.0</version>
     <name>hibernate-uuidv7-generator</name>
