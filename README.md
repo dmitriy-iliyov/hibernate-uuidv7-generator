@@ -17,7 +17,7 @@ right before the `INSERT`, so it is available as soon as `persist()` returns.
 1. Add dependency in pom.xml
 ```xml
 <dependency>
-    <groupId>io.github.dmitriy-iliyov.hbrntuuidv7gen</groupId>
+    <groupId>io.github.dmitriy-iliyov</groupId>
     <artifactId>hibernate-uuidv7-generator</artifactId>
     <version>1.0.0</version>
 </dependency>
